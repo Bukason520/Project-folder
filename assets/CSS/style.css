@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+.subclass {
+  text-align: center;
+}
+body {
+  border-radius: 0%;
+  background-color: rgba(122, 73, 179, 0.267);
+}
+.data {
+  border-collapse: collapse;
+}
+
+th {
+  
+  border-collapse: collapse;
+  background-color: #6e608c;
+  text-align: left;
+  padding: 8px;
+}
+
+td{
+  
+    border-collapse: collapse;
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #D6EEEE;}
